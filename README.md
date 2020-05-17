@@ -9,7 +9,7 @@ Software Requirements:
 
 Instructions to run the project:
 1.	Install the XAMPP server: https://www.apachefriends.org/download.html
-2.	Copy the “search” folder in C:\xampp\htdocs\
+2.	Extract and Copy the “search” folder in C:\xampp\htdocs\
 3.	Start the XAMPP services
 4.	In the browser type http://localhost/search/admin/index.php
 5.	Username: admin 
